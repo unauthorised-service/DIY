@@ -1,5 +1,5 @@
 # DIY
-Code and layouts
+Code and stripboard layouts for DIY synth modules.
 
 
 https://www.youtube.com/@UnauthorisedService
